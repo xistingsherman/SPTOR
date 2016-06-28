@@ -1,0 +1,9 @@
+Name,Setting,Action A,Action B,Runtime,Delaytime
+BEAR,DEFAULT,UP,DOWN,2,1
+VALVE 2,DEFAULT,Action A,Action B,1,2
+VALVE 3,DEFAULT,Action A,Action B,1,1
+VALVE 4,DEFAULT,Action A,Action B,3,2
+VALVE 5,DEFAULT,Action A,Action B,5,4
+VALVE 6,DEFAULT,Action A,Action B,1,3
+VALVE 7,DEFAULT,Action A,Action B,1,4
+VALVE 8,DEFAULT,Action A,Action B,1,1
