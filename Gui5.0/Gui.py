@@ -15,7 +15,7 @@ class GUI:
 
         self.master = master
         self.master.configure(bg='sky blue')
-        self.password = '1234'
+        self.password = '0000'
 
         self.momentary = Momentary(self.master, self.valves)
         self.edit = Edit(self.master, self.valves)
